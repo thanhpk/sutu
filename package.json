@@ -1,0 +1,25 @@
+{
+  "name": "sutu",
+  "version": "1.0.0",
+  "description": "sutu.shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhpk/sutu.git"
+  },
+  "author": "Pham Kieu Thanh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhpk/sutu/issues"
+  },
+  "homepage": "https://github.com/thanhpk/sutu#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mocha": "^3.1.2",
+    "should": "^11.1.1",
+    "supertest": "^2.0.1"
+  }
+}
